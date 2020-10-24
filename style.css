@@ -81,7 +81,14 @@ td, th
 caption
 {
 	padding-bottom: 10px;
+	font-size: 22px;
+	font-weight: bold;
 	text-decoration: underline;
+}
+
+.loisirsetsports
+{
+	padding-top: 10px;
 }
 
 .paragraphecv
